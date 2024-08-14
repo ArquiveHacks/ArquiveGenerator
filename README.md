@@ -6,7 +6,6 @@ Welcome to **Arquive Generator**! This project aims to provide an efficient and 
 
 1. [About](#about)
 3. [Usage](#usage)
-5. [License](#license)
 6. [Contact](#contact)
 
 ## About
@@ -46,10 +45,6 @@ The **Arquive Generator** executable provides a simple way to generate valid Nit
    - Follow any additional prompts to copy or store your Nitro.
 
 For detailed instructions and troubleshooting, refer to the [documentation](https://github.com/lucas021ajds/ArquiveGenerator/docs) or contact support at arquiveoficialcontact@gmail.com.
-
-## License
-
-**Arquive Generator** is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details.
 
 ## Contact
 
