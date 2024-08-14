@@ -1,5 +1,7 @@
 # Arquive Generator
 
+![Arquive Generator Banner](https://i.imgur.com/G3ht5Ge.png)
+
 Welcome to **Arquive Generator**! This project aims to provide an efficient and intuitive tool for creating files and reports, facilitating the organization and generation of structured content in an automated manner.
 
 ## 📦 Table of Contents
