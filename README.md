@@ -25,6 +25,8 @@ Welcome to **Arquive Generator**! This project aims to provide an efficient and 
 
 The **Arquive Generator** executable provides a simple way to generate valid Nitros with ease. Follow the instructions below to use the application:
 
+![Arquive Generator Usage](https://i.imgur.com/qL5B04K.png)
+
 ### Running the Executable
 
 1. **Download and Install:**
