@@ -1,6 +1,6 @@
 # Arquive Generator
 
-![Arquive Generator Banner](https://i.imgur.com/G3ht5Ge.png)
+![Arquive Generator Banner](https://i.imgur.com/envvWpM.png)
 
 Welcome, The **Arquive Generator** is a powerful and intuitive tool designed to create valid Discord Nitro codes effortlessly. Nitro codes are premium subscriptions on Discord that offer enhanced features and perks. With this generator, users can quickly and easily generate these codes for personal use or distribution.
 
@@ -25,7 +25,7 @@ Welcome, The **Arquive Generator** is a powerful and intuitive tool designed to 
 
 The **Arquive Generator** executable provides a simple way to generate valid Nitros with ease. Follow the instructions below to use the application:
 
-![Arquive Generator Usage](https://i.imgur.com/qL5B04K.png)
+![Arquive Generator Usage](https://i.imgur.com/BqZJPAn.png)
 
 ### Running the Executable
 
